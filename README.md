@@ -1,7 +1,7 @@
 # ATTiny85 Power Trigger
 ![Schematic](schematic.png)
 
-Simple power trigger board intended for low-current USB powered devices. Used to turn the pump on my cat's water bowl on only when there's presence near the water bowl.
+Simple power trigger board intended for low-current USB powered devices. Used to turn the pump on my cat's water bowl on only when there's presence near the water bowl. You can use any kind of sensor which has a simple toggling HIGH/LOW (default LOW) output such as a PIR or RCWL-0516 microwave sensor.
 
 Probably has the pump turned off 90%+ of the time. Probably doesn't save much money. Was fun to make. This repo is just documentation of the project.
 
